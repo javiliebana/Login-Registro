@@ -1,3 +1,6 @@
+
+
+
 package application;
 	
 import java.io.IOException;
@@ -25,6 +28,7 @@ public class Main extends Application {
 		stage.setTitle("Interfass de la tierra");
 		stage.setScene(new Scene(mypane));
 		stage.show();
+		//jejejejejje
 	}
 	
 	public static void main(String[] args) {
