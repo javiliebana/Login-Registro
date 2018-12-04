@@ -30,7 +30,7 @@
                <children>
                   <ImageView fitHeight="91.0" fitWidth="81.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/cookie_logo.png" />
+                        <Image url="@logo.png" />
                      </image>
                   </ImageView>
                   <Label id="label" prefHeight="19.0" prefWidth="108.0" style="-fx-font-size: 15;" stylesheets="@application.css" text="Inicio de Sesion">
